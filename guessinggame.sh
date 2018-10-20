@@ -2,10 +2,10 @@ function match
 {	
 if [[ $1 -lt $2 ]]
 then
-	echo "Less"
+	echo "Your guess is less. Guess Again"
 elif [[ $1 -gt $2 ]]
 then 
-	echo "More"
+	echo "YOur guess is high. Guess Again"
 fi
 }
 
