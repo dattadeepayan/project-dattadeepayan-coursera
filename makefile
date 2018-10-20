@@ -1,7 +1,7 @@
 draft README.MD:
 	rm README.*
 	touch README.MD
-	echo "#Shell Scripting Project on guessinggame.sh#" > README.MD
+	echo "#Shell Scripting Project on guessinggame.sh" > README.MD
 	echo "***Date and Time in UTC***" >> README.MD
 	date -u >> README.MD
 	echo "***Lines Count in guessinggame.sh***" >> README.MD

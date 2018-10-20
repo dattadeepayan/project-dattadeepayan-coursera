@@ -1,5 +1,5 @@
-#Shell Scripting Project on guessinggame.sh#
+#Shell Scripting Project on guessinggame.sh
 ***Date and Time in UTC***
-Sat Oct 20 21:00:19 UTC 2018
+Sat Oct 20 21:05:56 UTC 2018
 ***Lines Count in guessinggame.sh***
 22
